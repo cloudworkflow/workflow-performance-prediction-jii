@@ -7,7 +7,7 @@ python run_exp2 --model_name=CNN/LSTM/VanillaTransformer/DAGTransformer --split=
 ## 3 To reproduce experiment 3
 python run_exp2 --model_name=CNN/LSTM/VanillaTransformer/DAGTransformer/GCN --split=split9_05_05/split8_1_1/split6_2_2 #(default=split6_2_2) --GCN_mode=bidirect/unidirect #(default=bidirect)
 
-# Datasets:
+# Datasets(You need to extract the *.zip files first):
 ## 1 In directory datasets_exp1/
 There are 6 different sub-datasets, whose name indicates pred_task+pred_tgt. In each sub-dataset, for example, in 3CPU/, there are 3 DAG information files(train, val, and test) and 2 performance datasets(train, val, and test) using different pred_mode(i.e., PRIOR_1 and PRIOR_ALL).
 
