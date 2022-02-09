@@ -1,4 +1,13 @@
 # workflow-performance-prediction-jii
+This source repository is dedicated for the published journal paper, if you are interested in this research and use this code, please kindly reference our paper.
+
+Jixiang Yu, Ming Gao, Yuchan Li, Zehui Zhang, WAI HUNG IP, KAI LEUNG Yung, Workflow performance prediction based on graph structure aware deep attention neural network, Journal of Industrial Information Integration, 2022, https://doi.org/10.1016/j.jii.2022.100337. (https://www.sciencedirect.com/science/article/pii/S2452414X22000097)
+
+## Highlights
+### In workflow performance predictions, DAG structure matters;
+### DAG-Transformer can effectively embed the DAG information, and outperform mainstream ML and DL methods as well as GCN;
+### A new dataset for cloud workflow performance prediction is accompanied.
+
 # Usage:
 ## 1 To reproduce experiment 1
 python run_exp1 --pred_task=3/5/7 #(default=7) --pred_tgt=CPU/MEM #(default=CPU) --pred_mode=PRIOR_1/PRIOR_ALL #(default=PRIOR_ALL) --use_DAG=T/F #(default=T)
