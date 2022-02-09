@@ -1,12 +1,12 @@
 # workflow-performance-prediction-jii
-This source repository is dedicated for the published journal paper, if you are interested in this research and use this code, please kindly reference our paper.
-
-Jixiang Yu, Ming Gao, Yuchan Li, Zehui Zhang, WAI HUNG IP, KAI LEUNG Yung, Workflow performance prediction based on graph structure aware deep attention neural network, Journal of Industrial Information Integration, 2022, https://doi.org/10.1016/j.jii.2022.100337. (https://www.sciencedirect.com/science/article/pii/S2452414X22000097)
+This source repository is dedicated for the following published journal paper: 
+#### Jixiang Yu, Ming Gao, Yuchan Li, Zehui Zhang, WAI HUNG IP, KAI LEUNG Yung, Workflow performance prediction based on graph structure aware deep attention neural network, Journal of Industrial Information Integration, 2022, https://doi.org/10.1016/j.jii.2022.100337. (https://www.sciencedirect.com/science/article/pii/S2452414X22000097)
+If you are interested in this research and use this code, please kindly reference our paper or contact the corresponding author.
 
 ## Highlights
-#### In workflow performance predictions, DAG structure matters;
-#### DAG-Transformer can effectively embed the DAG information, and outperform mainstream ML and DL methods as well as GCN;
-#### A new dataset for cloud workflow performance prediction is accompanied.
+#### In workflow performance prediction, DAG structure matters;
+#### DAG-Transformer effectively embeds the DAG information and outperforms mainstream ML, DL and GCN methods;
+#### A new dataset for cloud workflow performance prediction is accompanied as well as the source code.
 
 # Usage:
 ## 1 To reproduce experiment 1
