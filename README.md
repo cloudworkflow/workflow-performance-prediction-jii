@@ -1,6 +1,6 @@
 # workflow-performance-prediction-jii
 This source repository is dedicated for the following published journal paper: 
-#### Jixiang Yu, Ming Gao, Yuchan Li, Zehui Zhang, WAI HUNG IP, KAI LEUNG Yung, Workflow performance prediction based on graph structure aware deep attention neural network, Journal of Industrial Information Integration, 2022, https://doi.org/10.1016/j.jii.2022.100337. (https://www.sciencedirect.com/science/article/pii/S2452414X22000097)
+#### Jixiang Yu, Ming Gao*, Yuchan Li, Zehui Zhang, WAI HUNG IP, KAI LEUNG Yung, Workflow performance prediction based on graph structure aware deep attention neural network, Journal of Industrial Information Integration, 2022, https://doi.org/10.1016/j.jii.2022.100337. (https://www.sciencedirect.com/science/article/pii/S2452414X22000097)
 If you are interested in this research and use this code, please kindly reference our paper or contact the corresponding author.
 
 This dataset is extracted and aggregated based on cluster-trace-v2018 (https://github.com/alibaba/clusterdata)
